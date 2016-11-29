@@ -1,0 +1,9 @@
+c:\users\dav's\documents\visual studio 2013\Projects\Kitti label creator\Kitti label creator\bin\Debug\Kitti label creator.exe.config
+c:\users\dav's\documents\visual studio 2013\Projects\Kitti label creator\Kitti label creator\bin\Debug\Kitti label creator.exe
+c:\users\dav's\documents\visual studio 2013\Projects\Kitti label creator\Kitti label creator\bin\Debug\Kitti label creator.pdb
+c:\users\dav's\documents\visual studio 2013\Projects\Kitti label creator\Kitti label creator\obj\Debug\Kitti label creator.csprojResolveAssemblyReference.cache
+c:\users\dav's\documents\visual studio 2013\Projects\Kitti label creator\Kitti label creator\obj\Debug\Kitti_label_creator.Form1.resources
+c:\users\dav's\documents\visual studio 2013\Projects\Kitti label creator\Kitti label creator\obj\Debug\Kitti_label_creator.Properties.Resources.resources
+c:\users\dav's\documents\visual studio 2013\Projects\Kitti label creator\Kitti label creator\obj\Debug\Kitti label creator.csproj.GenerateResource.Cache
+c:\users\dav's\documents\visual studio 2013\Projects\Kitti label creator\Kitti label creator\obj\Debug\Kitti label creator.exe
+c:\users\dav's\documents\visual studio 2013\Projects\Kitti label creator\Kitti label creator\obj\Debug\Kitti label creator.pdb
